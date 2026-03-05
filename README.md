@@ -137,7 +137,7 @@ ecommerce-analytics-brazil/
 
 ## 👤 Author
 
-Santino Adduca | Data Analyst  
-Buenos Aires, Argentina
+Santino Adduca   
+Data Analytics | Business Intelligence
 
-If you would like to discuss this project or explore potential collaboration opportunities, feel free to reach out via email or connect with me on LinkedIn.
+If you would like to discuss this project or explore potential collaboration opportunities, feel free to reach out via email or connect with me on [LinkedIn](https://www.linkedin.com/in/santino-adduca/).
