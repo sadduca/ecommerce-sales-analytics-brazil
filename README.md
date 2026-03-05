@@ -112,9 +112,7 @@ This project aims to demonstrate how raw transactional data can be transformed i
 
 ## 🌐 Full BI Analysis
 
-The complete strategic analysis, insights interpretation, and executive commentary are available in my portfolio:
-
-[https://www.notion.so/End-to-End-Business-Intelligence-Project-Brazil-E-commerce-Analytics-30b43fe0ba2e8062967ded3fd84260ff](https://www.notion.so/End-to-End-Business-Intelligence-Project-Brazil-E-commerce-Analytics-30b43fe0ba2e8062967ded3fd84260ff)
+The complete strategic analysis, insights interpretation, and executive commentary are available in my portfolio: [View BI report](https://www.notion.so/End-to-End-Business-Intelligence-Project-Brazil-E-commerce-Analytics-30b43fe0ba2e8062967ded3fd84260ff)
 
 ---
 
@@ -137,7 +135,7 @@ ecommerce-analytics-brazil/
 
 ## 👤 Author
 
-Santino Adduca   
+**Santino Adduca**
 Data Analytics | Business Intelligence
 
 If you would like to discuss this project or explore potential collaboration opportunities, feel free to reach out via email or connect with me on [LinkedIn](https://www.linkedin.com/in/santino-adduca/).
